@@ -94,6 +94,10 @@ p {
     margin-bottom: 0;
 }
 
+.wrapper {
+    display: flex;
+}
+
 .eth-value {
     font-weight: 400;
     color: hsl(178, 100%, 50%);
